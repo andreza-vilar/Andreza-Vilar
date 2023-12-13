@@ -6,8 +6,6 @@
 
 📚 Currently, I am learning about data structures, java, computer architecture and more.
 
-🌐  [LinkedIn](www.linkedin.com/in/andreza-vilar-504955231)
-
 📧 You can reach me via email at  [andreza.farias@ccc.ufcg.edu.br](mailto:andreza.farias@ccc.ufcg.edu.br)
 
 **Most Used Languages:**
