@@ -4,7 +4,7 @@
 
 🎓 I am a student majoring in Computer Science at UFCG.
 
-📚 Currently, I am learning about web development and cybersecurity. I'm researching cybersecurity at LAPSI-UFCG
+📚 Currently, I am learning about web development, cybersecurity and shell
 
 📧 You can reach me via email at  [andreza.farias@ccc.ufcg.edu.br](mailto:andreza.farias@ccc.ufcg.edu.br)
 
