@@ -30,21 +30,6 @@
 <br />
 
 
-<!-- About Section -->
-# Sobre mim
-
-<p>
-
- ✌️ &emsp; Sou entusiasta da tecnologia desde a infância <br/><br/>
- ❤️ &emsp; Amo escrever código e aprender novas funcionalidades<br/><br/>
- 📧 &emsp; Entre em contato comigo a qualquer momento: andreza.farias@ccc.ufcg.edu.br<br/><br/>
- 💡 &emsp; Cotribuir para o mundo por meio da tecnologia sempre foi um objetivo para mim.<br/><br/>
- ⚡ &emsp; Fun fact: eu amo esportes, especialmente natação e musculação.<br/><br/>
- 
-
-
-</p>
-
 <br/>
 <br/>
 <br/>
