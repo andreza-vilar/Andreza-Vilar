@@ -11,7 +11,7 @@
 
 
 <p align="center">
-        <samp>「 Olá, eu sou Andreza, uma entusiasta de tecnologia apaixonada por Java, desenvolvimento web, cybersecurity, DevOps, scripts e programação competitiva. Estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Com um conjunto diversificado de habilidades, meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
+        <samp>「 Olá, atualmente estou estudando java, me aventurando em cybersecurity e automatização com scripts. Estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Com um conjunto diversificado de habilidades, meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
         </samp>
 </p>
 
