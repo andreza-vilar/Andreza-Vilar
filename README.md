@@ -11,7 +11,7 @@
 
 
 <p align="center">
-        <samp>「 Olá, atualmente estou estudando java, me aventurando em cybersecurity e automatização com scripts. Estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Com um conjunto diversificado de habilidades, meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
+        <samp>「 Atualmente estou estudando DevOps, automatização com scripts, me aventurando em cybersecurity, e faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> Estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
         </samp>
 </p>
 
@@ -61,6 +61,7 @@
 
 <hr/>
 <br/>
+
 
 <p align="center">
   <a href="https://github.com/andreza-vilar">
