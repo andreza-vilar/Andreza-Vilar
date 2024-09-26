@@ -11,7 +11,7 @@
 
 
 <p align="center">
-        <samp>「 Atualmente estou estudando DevOps, automatização com scripts, me aventurando em cybersecurity, e faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> Estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
+        <samp>「 Atualmente estou estudando DevOps, automatização com scripts e me aventurando em cybersecurity. Faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> e estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
         </samp>
 </p>
 
