@@ -1,4 +1,4 @@
-<!-- Intro  -->
+<!-- Intro - Português -->
 <h3 align="center">
         <samp>&gt; Oi 👋, eu sou
                 <b>Andreza</b>
@@ -6,10 +6,23 @@
 </h3>
 
 <p align="center">
-        <samp>「 Atualmente estou estudando DevOps, automatização com scripts e me aventurando em cybersecurity. Faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> e estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Atualmente, trabalho como Pesquisadora IEL na Ford Motor Company <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg" width="35" height="35"/>, onde contribuo em projetos inovadores na área de automação e testes de software. Meu objetivo é contribuir de forma inovadora para cada projeto que eu participo. 」
+        <samp>「 Atualmente estou estudando DevOps, automatização com scripts e me aventurando em cybersecurity. Faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> e estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Atualmente, trabalho como Pesquisadora IEL na Ford Motor Company <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg" width="35" height="35"/>, onde contribuo em projetos inovadores na área de automação e testes de software. 」
         </samp>
 </p>
 
+<!-- Intro - English -->
+<h3 align="center">
+        <samp>&gt; Hi 👋, I'm
+                <b>Andreza</b>
+        </samp>
+</h3>
+
+<p align="center">
+        <samp>「 I am currently studying DevOps, automation with scripts, and exploring cybersecurity. I am part of the Infrastructure team at <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a>, and I am always seeking to learn and improve my skills in these areas. Currently, I work as an IEL Researcher at Ford Motor Company <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg" width="35" height="35"/>, where I contribute to innovative projects in the field of automation and software testing. 」
+        </samp>
+</p>
+
+<!-- Social Media Links -->
 <p align="center">
  <a href="https://www.linkedin.com/in/andrezavilar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,10 +36,7 @@
 </p>
 <br />
 
-<br/>
-<br/>
-<br/>
-
+<!-- Skills Section -->
 ## Linguagens e Ferramentas:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -44,17 +54,7 @@
 ![Prolog](https://img.shields.io/badge/Prolog-1F1F1F?style=for-the-badge&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-<br/>
-
-## Top Open Source -
-
-<p align="left">
-  <a href="https://github.com/andreza-vilar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<hr/>
-<br/>
-
+<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/andreza-vilar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreza-vilar&theme=radical&border=7F3FBF&background=0D1117" alt="Andreza's GitHub streak"/>
