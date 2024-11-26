@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-        <samp>「 Atualmente estou estudando DevOps, automatização com scripts e me aventurando em cybersecurity. Faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> e estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. Atualmente, trabalho como Pesquisadora IEL na Ford Motor Company <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg" width="35" height="35"/>, onde contribuo em projetos inovadores na área de automação e testes de software. 」
+        <samp>「 Atualmente estou estudando DevOps, automatização com scripts e me aventurando em cybersecurity. Faço parte da equipe de Infraestrutura do <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a> e estou sempre buscando aprender e aprimorar minhas habilidades nessas áreas. 」
         </samp>
 </p>
 
@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-        <samp>「 I am currently studying DevOps, automation with scripts, and exploring cybersecurity. I am part of the Infrastructure team at <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a>, and I am always seeking to learn and improve my skills in these areas. Currently, I work as an IEL Researcher at Ford Motor Company <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg" width="35" height="35"/>, where I contribute to innovative projects in the field of automation and software testing. 」
+        <samp>「 I am currently studying DevOps, automation with scripts, and exploring cybersecurity. I am part of the Infrastructure team at <a href="https://github.com/Guardians-DSC" target="_blank">Guardians@UFCG</a>, and I am always seeking to learn and improve my skills in these areas.」
         </samp>
 </p>
 
